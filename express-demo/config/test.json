@@ -1,0 +1,8 @@
+
+{
+    "jwtPrivateKey": "1234-napp",
+    "db": "mongodb+srv://norberto:norberto@cluster0.5jjd3.mongodb.net/playground_test",
+    "mail" : {
+        "host" : "test.mail.server.com"
+    }
+}
